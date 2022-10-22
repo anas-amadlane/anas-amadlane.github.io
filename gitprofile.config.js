@@ -60,16 +60,16 @@ const config = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: '1337-UM6P',
+      degree: 'CS-Training',
+      from: '2022',
+      to: 'Present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'UCA-MARRAKECH',
+      degree: 'MSc',
+      from: '2019',
+      to: '2021',
     },
   ],
   // Display blog posts from your medium or dev account. (Optional)
@@ -87,7 +87,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'night',
+    defaultTheme: 'light',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
